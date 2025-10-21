@@ -1,0 +1,67 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>E-Tech Gadgets</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <script src="https://unpkg.com/feather-icons"></script>
+  <script>
+    function copyAccount() {
+      navigator.clipboard.writeText('8053108219 - Opay - Aderanti Olamilekan Timothy');
+      alert('Account details copied to clipboard!');
+    }
+  </script>
+  <style>
+    body { background-color: #0a0a0a; color: #e5e5e5; }
+    .gradient-text { background: linear-gradient(to right, #00bcd4, #1a73e8); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+  </style>
+</head>
+<body class="font-sans">
+  <!-- Hero -->
+  <section class="text-center py-16">
+    <h1 class="text-5xl font-bold gradient-text">E-Tech Gadgets</h1>
+    <p class="mt-4 text-gray-400">Premium tech accessories. Smart, sleek, affordable.</p>
+    <div class="mt-6 space-x-4">
+      <a href="https://wa.me/2349062824287" class="bg-green-500 px-6 py-2 rounded-full text-white">Chat on WhatsApp</a>
+      <a href="mailto:aderantiolamilekan95@gmail.com" class="bg-blue-500 px-6 py-2 rounded-full text-white">Email Us</a>
+    </div>
+  </section>  <!-- Products -->  <section class="px-6 py-10 bg-gray-900">
+    <h2 class="text-3xl font-semibold text-center mb-8">Our Products</h2>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+      <div class="bg-gray-800 p-6 rounded-2xl shadow-lg">
+        <img src="https://via.placeholder.com/300x200" class="rounded mb-4" alt="Earphones">
+        <h3 class="text-xl font-bold">Wireless Earphones</h3>
+        <p class="text-gray-400">Crystal clear sound and long battery life.</p>
+      </div>
+      <div class="bg-gray-800 p-6 rounded-2xl shadow-lg">
+        <img src="https://via.placeholder.com/300x200" class="rounded mb-4" alt="Phone Chargers">
+        <h3 class="text-xl font-bold">Fast Chargers</h3>
+        <p class="text-gray-400">Charge up faster with safe, efficient tech.</p>
+      </div>
+      <div class="bg-gray-800 p-6 rounded-2xl shadow-lg">
+        <img src="https://via.placeholder.com/300x200" class="rounded mb-4" alt="Cables">
+        <h3 class="text-xl font-bold">Durable Cables</h3>
+        <p class="text-gray-400">Strong, flexible, and built to last.</p>
+      </div>
+    </div>
+  </section>  <!-- Deals -->  <section class="py-12 text-center">
+    <h2 class="text-3xl font-semibold mb-6">Special Offers</h2>
+    <p class="text-gray-400">Buy 2 accessories and get 10% off! Limited time only.</p>
+  </section>  <!-- Payment Info -->  <section class="bg-gray-900 py-10 text-center">
+    <h2 class="text-2xl font-bold mb-2">Payment Details</h2>
+    <p class="text-gray-400">Account Number: <strong>8053108219</strong><br>Bank: <strong>Opay</strong><br>Name: <strong>Aderanti Olamilekan Timothy</strong></p>
+    <button onclick="copyAccount()" class="mt-4 bg-blue-600 px-5 py-2 rounded-full">Copy Account</button>
+  </section>  <!-- Contact -->  <section class="px-6 py-12 text-center">
+    <h2 class="text-3xl font-semibold mb-6">Contact Us</h2>
+    <p class="text-gray-400 mb-4">Reach out for deals, inquiries, and partnerships.</p>
+    <div class="flex justify-center space-x-6">
+      <a href="https://wa.me/2349062824287" class="text-green-500"><i data-feather="message-circle"></i></a>
+      <a href="mailto:aderantiolamilekan95@gmail.com" class="text-blue-500"><i data-feather="mail"></i></a>
+      <a href="https://instagram.com/" class="text-pink-500"><i data-feather="instagram"></i></a>
+    </div>
+  </section>  <!-- Footer -->  <footer class="text-center py-6 bg-black text-gray-500 text-sm">
+    © 2025 E-Tech Gadgets. All rights reserved.
+  </footer>  <script>
+    feather.replace();
+  </script></body>
+</html>
