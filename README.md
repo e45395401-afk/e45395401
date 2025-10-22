@@ -40,16 +40,32 @@ We bring you reliable, affordable, and stylish gear to keep you powered and conn
           text-decoration:none;
           box-shadow:0 4px 8px rgba(0,0,0,0.2);
           transition:background-color 0.3s;">
-  💰 Pay Now via OPay
+  💰 Order Now via OPay 
 </a>
 
-Click the button on our site to make payment easily (only for Opay users).
+or
+
+<!-- Copy Account Number Button -->
+<button onclick="copyAccountNumber(8053108219)" 
+   style="display:inline-block;
+          background-color:#1E90FF;
+          color:#fff;
+          font-size:18px;
+          font-weight:600;
+          padding:12px 30px;
+          border-radius:10px;
+          border:none;
+          cursor:pointer;
+          box-shadow:0 4px 8px rgba(0,0,0,0.2);
+          transition:background-color 0.3s;">
+  📋 Copy Account Number
+</a>
 
 ---
 
 ## 📞 Contact Us
 - **WhatsApp:** [Chat Now](https://wa.me/2347080318149)  
-- **Email:** [e45395401@gmail.com](mailto:e45395401@gmail.com)  
+- **Email:** [aderantiolamilekan95@gmail.com](mailto:e45395401@gmail.com)  
 - **Instagram:** [E-Tech Gadgets](https://www.instagram.com/elaneslakeside?igsh=ZGlxcmhobTVjcGNs)  
 
 ---
@@ -62,3 +78,9 @@ Click the button on our site to make payment easily (only for Opay users).
 ### 🖤 Built with Passion
 Made with 💡 and 💻 by **E-Tech Gadgets**  
 Bringing tomorrow’s technology — today.
+
+## 📄 License
+
+This project is open-source and available under the **MIT License**.
+
+© 2025 E-Tech Gadgets — All rights reserved.
