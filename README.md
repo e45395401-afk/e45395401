@@ -46,7 +46,7 @@ We bring you reliable, affordable, and stylish gear to keep you powered and conn
 or
 
 <!-- Copy Account Number Button (works on GitHub Pages) -->
-<button onclick="copyAccountNumber()" 
+<button onclick="copyAccountNumber(8053108219)" 
    style="background:linear-gradient(135deg,#007BFF,#00B4FF);
           color:#fff;
           font-size:18px;
