@@ -45,21 +45,23 @@ We bring you reliable, affordable, and stylish gear to keep you powered and conn
 
 or
 
-<!-- Copy Account Number Button -->
-<button onclick="copyAccountNumber(8053108219)" 
-   style="display:inline-block;
-          background-color:#1E90FF;
+<!-- Copy Account Number Button (works on GitHub Pages) -->
+<button onclick="copyAccountNumber()" 
+   style="background:linear-gradient(135deg,#007BFF,#00B4FF);
           color:#fff;
           font-size:18px;
           font-weight:600;
-          padding:12px 30px;
-          border-radius:10px;
+          padding:14px 28px;
+          border-radius:50px;
           border:none;
           cursor:pointer;
-          box-shadow:0 4px 8px rgba(0,0,0,0.2);
-          transition:background-color 0.3s;">
-  📋 Copy Account Number
-</a>
+          box-shadow:0 4px 10px rgba(0,0,0,0.25);
+          transition:all 0.3s ease;
+          display:inline-flex;
+          align-items:center;
+          justify-content:center;">
+  📋&nbsp;Copy Account Number
+</button>
 
 ---
 
