@@ -14,6 +14,21 @@ We bring you reliable, affordable, and stylish gear to keep you powered and conn
 - Bluetooth Speakers 🔊  
 - And lots more…
 
+<a href="https://e45395401-afk.github.io/E-TechGadgets/" 
+   target="_blank" 
+   style="display:inline-block;
+          background-color:#0A9F49;
+          color:#fff;
+          font-size:18px;
+          font-weight:600;
+          padding:12px 30px;
+          border-radius:10px;
+          text-decoration:none;
+          box-shadow:0 4px 8px rgba(0,0,0,0.2);
+          transition:background-color 0.3s;">
+  Order now via Whatsapp 
+</a>
+
 ---
 
 ## 💸 Special Deals
@@ -27,23 +42,6 @@ We bring you reliable, affordable, and stylish gear to keep you powered and conn
 > **Account Number:** 8053108219  
 > **Bank:** Opay  
 > **Account Name:** Aderanti Olamilekan Timothy
-
-<a href="https://pay.opayweb.com/s/8053108219" 
-   target="_blank" 
-   style="display:inline-block;
-          background-color:#0A9F49;
-          color:#fff;
-          font-size:18px;
-          font-weight:600;
-          padding:12px 30px;
-          border-radius:10px;
-          text-decoration:none;
-          box-shadow:0 4px 8px rgba(0,0,0,0.2);
-          transition:background-color 0.3s;">
-  💰 Order Now via OPay 
-</a>
-
-or
 
 <!-- Copy Account Number Button (works on GitHub Pages) -->
 <button onclick="copyAccountNumber(8053108219)" 
